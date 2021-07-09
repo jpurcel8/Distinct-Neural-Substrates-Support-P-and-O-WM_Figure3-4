@@ -1,4 +1,4 @@
-# Distinct-Neural-Substrates-Support-P-and-O-WM_Figure3-4
+# Data for Purcell, Rapp, and Martin (2021) Distinct neural substrates support phonological and orthographic working memory: Implications for theories of working memory
 Contains data and code to generate Figures 3 and 4 for Purcell, Rapp, and Martin (2021) Distinct neural substrates support phonological and orthographic 
 working memory:  Implications for theories of working memory 
 
