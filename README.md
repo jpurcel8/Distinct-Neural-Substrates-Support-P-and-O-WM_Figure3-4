@@ -8,7 +8,7 @@ This folder contains the output files from the multiple VLSM analyses that can b
 the figures in this paper.
 
 # Figure 3 Data
-Use the all_lesions.nii; an example software that can be used to view these files is MRIcron - https://www.nitrc.org/projects/mricron
+Use the all_lesions.nii; an example software that can be used to view this file is MRIcron - https://www.nitrc.org/projects/mricron
 
 # Figure 4 Data
 See the function Figure4_image_generator.m . Open it in Matlab to see code used to generate the figures, or simply type Figure4_image_generator into 
